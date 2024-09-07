@@ -1,4 +1,4 @@
-# UMBC-Life
+# UMBC-Life College Simulator
 A point-and-click videogame that I developed in my first semester of college using Processing 4, A visual OOP language built on top of Java, to demonstrate mastery in foundational programming skills and original software design & development.
 
 The primary goal of this game is to help incoming college freshmen practice good decision-making skills and get accustomed to college life.
